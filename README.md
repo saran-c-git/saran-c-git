@@ -45,7 +45,7 @@ class SaranC {
 
     public array $currentlyLearning = [
         "Advanced Laravel",
-        "React with TypeScript",
+        "React",
         "Networking (CCNA Baseline)",
         "Ethical Hacking",
     ];
@@ -265,9 +265,9 @@ class SaranC {
 
 ```
 🐘 Advanced Laravel      → Service Containers, Queues, APIs, Packages
-⚛️  React + TypeScript    → Typed Components, Hooks, Context API
+⚛️  React                → Typed Components, Hooks, Context API
 🌐 Networking (CCNA)     → Routing Protocols, VLANs, Subnetting
-🛡️  Ethical Hacking       → Recon, Exploitation Basics, Web Vulnerabilities
+🛡️  Ethical Hacking      → Recon, Exploitation Basics, Web Vulnerabilities
 🐍 Python (Django)       → Views, ORM, REST Framework Basics
 ```
 
